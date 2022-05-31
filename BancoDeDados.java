@@ -10,9 +10,10 @@ public class BancoDeDados {
     public BancoDeDados() {
         this.alunos = new ArrayList<>();
 
-        this.alunos.add(new Aluno(1, "Gerência de Configuração", "Ciência da Computação"));
-        this.alunos.add(new Aluno(2, "Engenharia de Software", "Engenharia da Computação"));
-        this.alunos.add(new Aluno(3, "Teste e Qualidade", "Análise e Desenvolvimento de Sistemas"));
+        this.alunos.add(new Aluno(1, "Janaylson Daniel Pessoa", "Ciência da Computação"));
+        this.alunos.add(new Aluno(2, "Anderson Silva", "Engenharia da Computação"));
+        this.alunos.add(new Aluno(3, "Carlos Henrique", "Análise e Desenvolvimento de Sistemas"));
+        this.alunos.add(new Aluno(4, "Fávio Lúcio", "Análise e Desenvolvimento de Sistemas"));
     }
 
     // CRUD - Create, Read, Update and Delete
