@@ -1,10 +1,13 @@
+// Gerencia de Configuração
+// Janaylson Pessoa
+
 public class Aluno {
 
     private int id;
     private String nome;
     private String curso;
 
-    public Aluno() {    
+    public Aluno() {
     }
 
     public Aluno(int id, String nome, String curso) {
