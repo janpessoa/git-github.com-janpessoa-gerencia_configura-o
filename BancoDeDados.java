@@ -6,13 +6,13 @@ import java.util.List;
 public class BancoDeDados {
 
     private List<Aluno> alunos;
-    
+
     public BancoDeDados() {
         this.alunos = new ArrayList<>();
 
-        this.alunos.add(new Aluno(1, "Harry Potter", "Ciência da Computação"));
-        this.alunos.add(new Aluno(2, "Hermione Granger", "Engenharia da Computação"));
-        this.alunos.add(new Aluno(3, "Ronald Weasley", "Análise e Desenvolvimento de Sistemas"));
+        this.alunos.add(new Aluno(1, "Gerência de Configuração", "Ciência da Computação"));
+        this.alunos.add(new Aluno(2, "Engenharia de Software", "Engenharia da Computação"));
+        this.alunos.add(new Aluno(3, "Teste e Qualidade", "Análise e Desenvolvimento de Sistemas"));
     }
 
     // CRUD - Create, Read, Update and Delete
