@@ -1,5 +1,6 @@
 // Gerencia de Configuração
 // Janaylson Pessoa
+//Prof José Mário 
 
 public class Aluno {
 
