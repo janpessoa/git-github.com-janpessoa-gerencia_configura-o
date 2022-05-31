@@ -1,6 +1,7 @@
 // Gerencia de Configuração
 // Janaylson Pessoa
 //Prof José Mário 
+// 2 avaliação utilizando o github
 
 public class Aluno {
 
